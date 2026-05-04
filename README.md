@@ -4,7 +4,7 @@ A backend API built using FastAPI for managing users and financial transactions.
 
 ## Features
 - User Registration
-- User Login
+- User Loginn
 - Add Transaction
 - View Transactions
 - Transaction Summary
