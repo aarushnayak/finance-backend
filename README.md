@@ -11,10 +11,6 @@ A backend API built using FastAPI for managing users and financial transactions.
 
 ## Project Structure
 
-##
-##
-##
-
 finance-backend/
 │
 ├── app/
